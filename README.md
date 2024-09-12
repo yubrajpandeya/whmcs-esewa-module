@@ -104,9 +104,3 @@ This module is open-sourced software licensed under the [MIT license](LICENSE).
 ## Contributors
 
 - **Yubraj Pandeya** - Development
-- **Suraj Datheputhe** - Initial Inspiration
-
-For any support or questions, feel free to create an issue or reach out.
-```
-
-Make sure to copy the full markdown text again, and it should render properly when pasted into your **README.md** file. The formatting should appear as intended with proper sections and indentation.
